@@ -24,10 +24,12 @@ I explore defensive security and practical cybersecurity concepts through **home
 
 ### 🧪 Home Lab Projects
 | Project | Description | Repository |
-| Virtual Machine Setup | Configured Windows Server, Kali Linux, and pfSense for network simulations | [Repo Link](https://github.com/YourUsername/virtual-machine-setup) |
-| Wazuh SIEM Monitoring | Monitored system logs and detected security events | [Repo Link](https://github.com/YourUsername/wazuh-siem-monitoring) |
-| OpenVAS Vulnerability Scanning | Performed vulnerability scans and analyzed results | [Repo Link](https://github.com/YourUsername/openvas-lab) |
-| AWS IAM Practice Lab | Managed users, roles, and permissions for secure cloud access | [Repo Link](https://github.com/YourUsername/aws-iam-lab) |
+| --- | --- | --- |
+| Virtual Machine Setup | - Configured Windows Server, Kali Linux, and pfSense for network simulations<br>- Set up network topology and connectivity tests<br>- Tested firewall rules and routing | [Repo Link](https://github.com/YOURUSERNAME/virtual-machine-setup) |
+| Wazuh SIEM Monitoring | - Monitored system logs and detected security events<br>- Configured alerts and dashboards<br>- Analyzed security incidents | [Repo Link](https://github.com/YOURUSERNAME/wazuh-siem-monitoring) |
+| OpenVAS Vulnerability Scanning | - Performed vulnerability scans<br>- Analyzed scan results and reported findings<br>- Learned to prioritize critical vulnerabilities | [Repo Link](https://github.com/YOURUSERNAME/openvas-lab) |
+| AWS IAM Practice Lab | - Managed users, roles, and permissions for secure cloud access<br>- Configured policies and groups<br>- Tested role-based access scenarios | [Repo Link](https://github.com/YOURUSERNAME/aws-iam-lab) |
+
 
 > *Replace `YourUsername` with your GitHub username and update repo links as you create the projects.*
 
