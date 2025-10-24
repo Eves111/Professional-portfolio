@@ -62,9 +62,9 @@ I design and build modern, responsive websites with a focus on **frontend, WordP
 ---
 
 ## 📫 Connect with Me
-- GitHub: [github.com/YourUsername](https://github.com/YourUsername)  
-- LinkedIn: [linkedin.com/in/YourProfile](#)  
-- Email: yourname@email.com  
+- GitHub: https://github.com/Evelyn-madzanire
+- LinkedIn: www.linkedin.com/in/evelyn-madzanire-319334231
+- Email: evelynmadzanire1@gmail.com  
 
 ---
 
