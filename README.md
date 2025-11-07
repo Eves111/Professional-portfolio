@@ -28,7 +28,7 @@ I explore defensive security and practical cybersecurity concepts through **home
 | Virtual Machine Setup | - Configured Windows Server, Kali Linux, and pfSense for network simulations<br>- Set up network topology and connectivity tests<br>- Tested firewall rules and routing | [Repo Link](https://github.com/YOURUSERNAME/virtual-machine-setup) |
 | Wazuh SIEM Monitoring | - Monitored system logs and detected security events<br>- Configured alerts and dashboards<br>- Analyzed security incidents | [Repo Link](https://github.com/YOURUSERNAME/wazuh-siem-monitoring) |
 | OpenVAS Vulnerability Scanning | - Performed vulnerability scans<br>- Analyzed scan results and reported findings<br>- Learned to prioritize critical vulnerabilities | [Repo Link](https://github.com/YOURUSERNAME/openvas-lab) |
-| AWS IAM Practice Lab | - Managed users, roles, and permissions for secure cloud access<br>- Configured policies and groups<br>- Tested role-based access scenarios | [Repo Link](https://github.com/YOURUSERNAME/aws-iam-lab) |
+| Keycloak Home Lab | - Installed and configured Keycloak on a local machine<br>- Created realms, users, roles, and groups<br>- Tested authentication and role-based access control | [Repo Link](https://github.com/Evelyn-madzanire/Keycloak-home-lab) |
 
 
 > *Replace `YourUsername` with your GitHub username and update repo links as you create the projects.*
