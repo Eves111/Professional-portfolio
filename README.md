@@ -30,9 +30,6 @@ I explore defensive security and practical cybersecurity concepts through **home
 | OpenVAS Vulnerability Scanning | - Performed vulnerability scans<br>- Analyzed scan results and reported findings<br>- Learned to prioritize critical vulnerabilities | [Repo Link](https://github.com/YOURUSERNAME/openvas-lab) |
 | Keycloak Home Lab | - Installed and configured Keycloak on a local machine<br>- Created realms, users, roles, and groups<br>- Tested authentication and role-based access control | [Repo Link](https://github.com/Evelyn-madzanire/Keycloak-home-lab) |
 
-
-> *Replace `YourUsername` with your GitHub username and update repo links as you create the projects.*
-
 ---
 
 ## 💻 Web Development Portfolio
